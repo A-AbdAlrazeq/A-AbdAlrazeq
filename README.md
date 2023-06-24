@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abd Alrahman Abd Alrazeq
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Reactjs,Typescript,Sass
+- 👀 I’m interested in Full Stack Engineer
+- 🌱 I’m currently learning MERN, Django, Problem-Solving
 - 📫 How to reach me Email:abdalrahman.razeq@outlook.com
                      LinkedIn:https://www.linkedin.com/in/abd-alrahman-abd-alrazeq/
 
